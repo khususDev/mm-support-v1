@@ -1,0 +1,83 @@
+
+    .table {
+        font-size: 12px;
+    }
+
+    #btn-create {
+        width: 80px;
+        height: 25px;
+        font-size: 10px;
+        text-align: center;
+        padding: 0;
+    }
+
+    #btn-upload {
+        width: 80px;
+        height: 25px;
+        font-size: 10px;
+        text-align: center;
+        padding: 0;
+        background-color: rgba(100, 104, 104, 0.473);
+    }
+
+    #btn-export {
+        width: 80px;
+        height: 25px;
+        font-size: 10px;
+        text-align: center;
+        padding: 0;
+        background-color: rgba(100, 104, 104, 0.473);
+    }
+
+    .height {
+
+        height: 30px;
+    }
+
+    .form {
+        position: relative;
+    }
+
+    .form .fa-search {
+        position: absolute;
+        left: 10px;
+        color: #9ca3af;
+
+    }
+
+    .form span {
+
+        position: absolute;
+        padding: 2px;
+        border-left: 1px solid #d1d5db;
+
+    }
+
+    .left-pan {
+        padding-left: 7px;
+    }
+
+    .left-pan i {
+
+        padding-left: 10px;
+    }
+
+    .form-input {
+
+        height: 30px;
+        text-indent: 33px;
+        border-radius: 10px;
+    }
+
+    .form-input:focus {
+
+        box-shadow: 1px;
+        border: none;
+    }
+
+    .titlenav {
+        font-size: 18px;
+        margin: 10px;
+        font-family: Verdana;
+        color: #25476A;
+    }
